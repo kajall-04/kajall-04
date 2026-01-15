@@ -26,7 +26,7 @@
 - 4. Continuous Learning: Deepening my knowledge in Java, Python, and RESTful API integrations.
 
 
-## 📊 GitHub Stats & Trophies
+
 <!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kajall-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="kajall-04's GitHub Stats" width="49%" />
