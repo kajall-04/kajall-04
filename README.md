@@ -1,74 +1,72 @@
-
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dwaving%26color%3D7aa2f7%26height%3D200%26section%3Dheader%26text%3DKajal%2520Pareek%26fontSize%3D70%26animation%3Dtwinkling%26fontAlignY%3D35%26theme%3Dtokyonight" width="100%" />
-
-<h3>🚀 2nd Year Student | Aspiring AI & Software Developer | Tech Explorer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Kajal%20Pareek&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=A%20Second%20Year%20Computer%20Science%20Student&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/Kajal-Pareek"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
-<a href="mailto:kajalpareek13@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a>
-<a href="https://www.google.com/search?q=https://leetcode.com/kajall04"><img src="https://www.google.com/search?q=https://img.shields.io/badge/-LeetCode-FFA116%3Fstyle%3Dfor-the-badge%26logo%3DLeetCode%26logoColor%3Dblack" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Bridging%20the%20gap%20between%20human%20imagination%20and%20digital%20reality%20through%20clean%20code%20and%20intelligent%20design." alt="Typing introduction" />
 </p>
-</div>
 
-💫 About Me
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=kajall-04">
+    <img src="https://komarev.com/ghpvc/?username=kajall-04&label=Profile%20views&color=00FFFF&style=flat-square" alt="kajall-04's profile views" />
+  </a>
+</p>
 
-I am a second-year student focused on experimenting with new ideas and building personal projects that solve real-world problems. Currently diving deep into the worlds of Software Development and Artificial Intelligence.
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
 
-🔭 Featured Project: Health Fusion — Innovating healthcare through technology.
+## 📌 About Me
+- I am a second-year B.Tech Computer Science student at VIT Bhopal with a deep passion for crafting intuitive user interfaces and exploring the practical applications of Artificial Intelligence. With a strong foundation in Front-End Development and Prompt Engineering, I enjoy turning complex problems into user-centric digital experiences. I am a quick learner, constantly experimenting with new tools and frameworks to stay at the forefront of modern technology.
 
-🌱 Learning: Fundamentals of AI, Machine Learning, and Full Stack Architecture.
 
-🧪 Experimenting with: New UI/UX patterns and data structures.
+## 🧠 My Focus Areas
+- 1. Front-End Excellence: Crafting responsive, modular, and high-performance web applications using HTML5, CSS3, and JavaScript.
+- 2. AI Integration: Leveraging Prompt Engineering and AI tool utilization to enhance software functionality and development workflows.
+- 3. User-Centric Design: Building applications like "My Health Fusion" and "Anime Tracker" with a focus on modern UI/UX practices and seamless user journeys.
+- 4. Continuous Learning: Deepening my knowledge in Java, Python, and RESTful API integrations.
 
-⚡ Goal: To build software that makes a tangible impact.
 
-🏆 Featured Project: Health Fusion
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kajall-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="kajall-04's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=kajall-04&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="kajall-04's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kajall-04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kajal Pareek's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kajall-04&theme=tokyonight&radius=10" alt="kajall-04's Activity Graph" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Frontend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajall-04&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
+
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/kajal-pareek-0413k/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/9108239462924" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:kajalpareek13@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+</picture>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
-<a href="https://www.google.com/search?q=https://github.com/kajall-04/Health-Fusion">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dkajall-04%26repo%3DHealth-Fusion%26theme%3Dtokyonight%26show_owner%3Dtrue" alt="Health Fusion Project Card" />
-</a>
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
 
-🛠️ Tech Stack
 
-<div align="left">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/NodeJS-6DA55F%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
-
-📊 Coding Activity & Stats
-
-<div align="center">
-<table border="0">
-<tr>
-<td>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dkajall-04%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue" />
-</td>
-<td>
-<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dkajall-04%26layout%3Dcompact%26theme%3Dtokyonight" />
-</td>
-</tr>
-</table>
-
-<h4>🧩 LeetCode Stats</h4>
-<img src="https://www.google.com/search?q=https://leetcode-stats-six.vercel.app/api%3Fusername%3Dkajall04%26theme%3Ddark" alt="LeetCode Stats" />
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dkajall-04%26theme%3Dtokyonight" width="100%" />
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dkajall-04%26color%3D7aa2f7%26style%3Dflat-square%26label%3DPROFILE%2BVIEWS" />
