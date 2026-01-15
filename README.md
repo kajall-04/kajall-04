@@ -1,4 +1,3 @@
-
 <div align="center">
 <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dwaving%26color%3D7aa2f7%26height%3D200%26section%3Dheader%26text%3DKajal%2520Pareek%26fontSize%3D70%26animation%3Dtwinkling%26fontAlignY%3D35%26theme%3Dtokyonight" width="100%" />
 
@@ -60,12 +59,14 @@ I am a second-year student focused on experimenting with new ideas and building 
 <h4>🧩 LeetCode Stats</h4>
 <img src="https://www.google.com/search?q=https://leetcode-stats-six.vercel.app/api%3Fusername%3Dkajall04%26theme%3Ddark" alt="LeetCode Stats" />
 
-<div align="center">
+
+
+
+
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dkajall-04%26theme%3Dtokyonight" width="100%" />
+
+
+
+
+
 <img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dkajall-04%26color%3D7aa2f7%26style%3Dflat-square%26label%3DPROFILE%2BVIEWS" />
-
-
-
-
-
-<sub>© 2024-2025 Kajal Pareek | Keep Exploring</sub>
-</div>
