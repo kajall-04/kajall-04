@@ -16,7 +16,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I am a second-year B.Tech Computer Science student at VIT Bhopal with a deep passion for crafting intuitive user interfaces and exploring the practical applications of Artificial Intelligence. With a strong foundation in Front-End Development and Prompt Engineering, I enjoy turning complex problems into user-centric digital experiences. I am a quick learner, constantly experimenting with new tools and frameworks to stay at the forefront of modern technology.
+- I am a Third-year B.Tech Computer Science student at VIT Bhopal with a deep passion for crafting intuitive user interfaces and exploring the practical applications of Artificial Intelligence. With a strong foundation in Front-End Development and Prompt Engineering, I enjoy turning complex problems into user-centric digital experiences. I am a quick learner, constantly experimenting with new tools and frameworks to stay at the forefront of modern technology.
 
 
 ## 🧠 My Focus Areas
